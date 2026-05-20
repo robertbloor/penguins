@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Data (often too large; remove this line if you want to track CSVs)
+*.csv
